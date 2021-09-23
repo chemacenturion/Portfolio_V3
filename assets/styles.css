@@ -11,7 +11,13 @@
 .grid__container {
     display: grid;
     grid-template-columns: 1fr 1.5fr;
-    grid-gap: 20px;
+}
+
+.grid__container-item-1 {
+    background-image: url(./images/parchment.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
 }
 
 /* ========================================================================================================================================================== */
