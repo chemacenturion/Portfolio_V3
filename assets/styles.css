@@ -14,15 +14,27 @@
 }
 
 .grid__container-item-1 {
-    background-image: url(./images/parchment.jpg);
+    background-image: url(./images/New\ Project\ \(4\)crop.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+    display: flex;
+    justify-content: center;
 }
 
 .carousel_links {
     text-decoration: none;
     color: white;
+}
+
+#bio__card {
+    height: 20em;
+    margin-top: 27em;
+    background-image: url(./images/New\ Project\ \(5\)crop.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border: none;
 }
 
 /* ========================================================================================================================================================== */
