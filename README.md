@@ -5,10 +5,14 @@
 This our third and final Portfolio version before the final REACT version. In this version I attempted increased minimalism as well as the use of some photo editing software.
 
 ## Table of Contents:
+* [Deployed-Link](#Deployed-Link)
 * [Usage](#Usage)
 * [License](#License)
 * [Contributing](#Contributing)
 * [Questions](#Questions)
+
+## Deployed-Link
+https://chemacenturion.github.io/Portfolio_V3/
 
 ## Usage
 To display completed projects and their respective repositories.
