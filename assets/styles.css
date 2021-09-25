@@ -42,8 +42,7 @@
 /* Footer */
 
 .footer {
-    background: linear-gradient( rgb(0, 0, 0), rgb(100, 100, 100));
-    grid-area: footer;
+    background: linear-gradient( rgb(85, 67, 46), rgb(100, 100, 100));
     color: white;
     font-size: x-large;
     display: inline-flex;
@@ -54,11 +53,11 @@
     bottom: 0;
 }
 
-    .avatar2 {
+    .avatar1 {
         vertical-align: middle;
         width: 3rem;
         height: auto;
-        border-radius: 50%;
+        padding: 0px 5px;
     }
 
     .footer-list {
