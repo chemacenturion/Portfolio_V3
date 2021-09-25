@@ -91,4 +91,16 @@
         height: auto;
         padding: 0px 5px;
     }
+
+    .desk-image {
+        visibility: hidden;
+        height: 60vh;
+    }
+
+    .grid__container-item-1 {
+        background-image: url(./images/New\ Project\ \(7\)cropped.jpg);
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
 }
