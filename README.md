@@ -5,16 +5,10 @@
 This our third and final Portfolio version before the final REACT version. In this version I attempted increased minimalism as well as the use of some photo editing software.
 
 ## Table of Contents:
-* [Installation](#Installation)
 * [Usage](#Usage)
 * [License](#License)
 * [Contributing](#Contributing)
-* [Tests](#Tests)
 * [Questions](#Questions)
-
-## Installation
-* To install neccesary dependencies please run the following command:
-npm install
 
 ## Usage
 To display completed projects and their respective repositories.
@@ -26,10 +20,6 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
 ## Contributing
 No outside contributions are being accepted at the current time.
-
-## Tests
-* To run tests run the following command:
-npm test
 
 ## Questions
 Please reach out to me with any further questions via email at:
