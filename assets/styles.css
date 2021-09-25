@@ -40,6 +40,10 @@
 /* ========================================================================================================================================================== */
 
 /* Footer */
+.footer-container {
+    display: flex;
+    justify-content: end;
+}
 
 .footer {
     background: linear-gradient( rgb(85, 67, 46), rgb(100, 100, 100));
@@ -48,9 +52,7 @@
     display: inline-flex;
     justify-content: space-between;
     padding: 2% 2% 0% 2%;
-    position: absolute;
     width: 100%;
-    bottom: 0;
 }
 
     .avatar1 {
@@ -64,3 +66,21 @@
         display: inline-flex;
         list-style: none;
     }
+
+/* ========================================================================================================================================================== */
+
+/* @mediaqueries */
+
+@media only screen and (max-width: 1500px) {
+    .grid__container {
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+}
+
+@media only screen and (max-width: 900px) {
+    #bio__card {
+        height: 15em;
+        margin-top: 15em;
+    }
+}
