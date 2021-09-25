@@ -28,16 +28,6 @@
     color: white;
 }
 
-#bio__card {
-    height: 20em;
-    margin-top: 27em;
-    background-image: url(./images/New\ Project\ \(5\)crop.jpg);
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-    border: none;
-}
-
 /* ========================================================================================================================================================== */
 
 /* Footer */
@@ -77,11 +67,28 @@
         display: grid;
         grid-template-columns: 1fr;
     }
+
+    .desk-image {
+        width: 100vw;
+    }
+
 }
 
-@media only screen and (max-width: 900px) {
-    #bio__card {
-        height: 15em;
-        margin-top: 15em;
+@media only screen and (max-width: 700px) {
+    
+    body > div.footer-container > footer > div:nth-child(2) > ul {
+        padding-left: 0em;
+    }
+
+    .footer-copyright {
+        font-size: 10px;
+        padding-top: 1em;
+    }
+
+    .avatar1 {
+        vertical-align: middle;
+        width: 2rem;
+        height: auto;
+        padding: 0px 5px;
     }
 }
