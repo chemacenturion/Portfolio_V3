@@ -1,5 +1,6 @@
 
 ## Portfolio Version 3 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Portfolio-V3](https://github.com/chemacenturion/Portfolio_V3/blob/main/assets/images/Screenshot%20(166).png?raw=true)
 
 ## Description
 This our third and final Portfolio version before the final REACT version. In this version I attempted increased minimalism as well as the use of some photo editing software.
@@ -12,6 +13,9 @@ This our third and final Portfolio version before the final REACT version. In th
 * [Questions](#Questions)
 
 ## Deployed-Link
+
+![Portfolio-V3](https://github.com/chemacenturion/Portfolio_V3/blob/main/assets/images/Untitled_%20Sep%2025,%202021%201_53%20PM.gif?raw=true)
+
 https://chemacenturion.github.io/Portfolio_V3/
 
 ## Usage
